@@ -22,7 +22,7 @@ const Header = () => {
     {/* <Navbar.Brand href="#home">Your School</Navbar.Brand> */}
     <Nav className="me-2" >
       <Nav.Link className='header-options' href="#about">About</Nav.Link>
-      <Nav.Link className='header-options' href="#courses">Courses</Nav.Link>
+      <Nav.Link className='header-options' href="#survices">Services</Nav.Link>
       <Nav.Link className='header-options' href="#registration">Registration</Nav.Link>
       <Nav.Link className='header-options' href="#login">LogIn</Nav.Link>
       <Nav.Link className='header-options' href="#logout">LogOut</Nav.Link>

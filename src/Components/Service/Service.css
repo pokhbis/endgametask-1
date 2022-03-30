@@ -1,0 +1,27 @@
+.service{
+    background-image: url(https://lisbdnet.com/wp-content/uploads/2021/10/Picture1-6.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.service-title{
+font-size: 35px;
+color: rgba(211, 76, 58, 0.952);
+font-family: 'Courier New', Courier, monospace;
+font-weight: 700;
+text-align: center;
+}
+
+.card-body{
+  width: 600px;
+  height: 400px;
+}
+
+.service-conductor{
+    display: flex;
+    justify-content: space-around;
+}
+.card-col{
+    border: 2px solid red;
+    border-radius: 5px;
+}
